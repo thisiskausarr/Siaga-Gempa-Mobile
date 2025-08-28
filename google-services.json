@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286654018522",
+    "project_id": "siaga-f42dd",
+    "storage_bucket": "siaga-f42dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286654018522:android:904e35213c3c0bc8e706e3",
+        "android_client_info": {
+          "package_name": "com.example.siaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286654018522-pfo0rsner1n36n678bc8ko84lrj8n6cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdZQYOMU7Yovd_XJo3GwaYw33Xw7aY_Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286654018522-pfo0rsner1n36n678bc8ko84lrj8n6cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
